@@ -19,13 +19,13 @@
         </select>
         <input type="number" name="num2">
         <br>
-        <input type="submit" name="submit">
+        <input type="submit" name="See Result">
 
 
     </form>
     Answer:  <?php
     $num1=0;
-    $num2=0;  
+    $num2=0;
     // if(isset($_POST["num1"])){
     //
     // }
